@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.dashboard{
+    border: 2px solid black;
+    padding: 50px;
+    margin: 20px auto;
+    width: 70%;
+    border-radius: 6px;
+}
+.line{
+    border-bottom:1px solid black
+}
+
+.logout{
+    padding: 8px;
+    background: rosybrown;
+    border-radius: 4px;
+}
